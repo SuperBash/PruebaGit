@@ -15,7 +15,7 @@ namespace NuevaPrueba.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "MENSAJE NUEVO";
 
             return View();
         }
