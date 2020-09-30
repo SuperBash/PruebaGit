@@ -8,7 +8,7 @@ namespace TostiPrueba.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Index(String a)
         {
             return View();
         }
